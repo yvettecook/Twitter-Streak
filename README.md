@@ -14,8 +14,6 @@ User stories:
 
 2) With a username entered / The user clickes search / And a stats graph appears
 
-3) 
-
 Inspired by:
 
 http://twee-q.com/
