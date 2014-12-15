@@ -6,14 +6,15 @@ Inspired by the GitHub stats graph, this tool will allow you to see any user's y
 
 Built using the MEAN stack (MongoDB, Express, Angular and Node)
 
-### Getting Started
+### Current Status
 
-User stories:
+*Technology*
 
-1) As a curious user / I land on the homepage / And enter a username into the box
+* Getting more familiar with stack by doing the new Angular tutorial from the Makers Academy course.
 
-2) With a username entered / The user clickes search / And a stats graph appears
+*Development*
 
+* Starting user stories
 
 ### Also inspired by:
 
