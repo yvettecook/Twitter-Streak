@@ -2,7 +2,7 @@
   "name": "Twitter-Streak",
   "version": "1.0.0",
   "description": "Inspired by the GitHub stats graph, this tool will allow you to see any user's year in tweets.",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.10.6",
     "jasmine-node": "^1.14.5"

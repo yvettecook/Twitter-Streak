@@ -1,13 +1,17 @@
-describe('Homepage', function() {
+chai = require('chai')
+expect = chai.expect
+casper_chai = require('casper-chai')
+chai.use(casper_chai)
 
-  before(function() {
-    casper.start('http://localhost:300/');
+describe('homepage', function(){
+  before(function(){
+    casper.start('http://localhost:3000/');
   });
 
-  it('hello world-s', function() {
-    casper.then(function() {
-      expect(body).to.have.text('Hello world')
+  it('hello worlds', function(){
+    casper.then(function(){
+      expect("body").to.have.text("Hello world");
     });
   });
 
-})
+});
