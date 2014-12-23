@@ -8,9 +8,9 @@ describe('homepage', function(){
     casper.start('http://localhost:3000/');
   });
 
-  it('hello worlds', function(){
+  it('says Welcome', function(){
     casper.then(function(){
-      expect('body').to.have.text('Hello world');
+      expect("body").to.have.text("Welcome");
     });
   });
 

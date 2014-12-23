@@ -5,7 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.10.6",
-    "jasmine-node": "^1.14.5"
+    "ejs": "^1.0.0"
+
   },
   "devDependencies": {
     "casper-chai": "^0.2.1",
